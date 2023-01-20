@@ -1,0 +1,14 @@
+@import '../../styles/settings.scss';
+
+.btn {
+  background: $color-success;
+  border: 0;
+  color: $color-light;
+  text-align: center;
+  padding: $base-size;
+  margin: 0 $base-size;
+  border-radius: $radius;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+}
